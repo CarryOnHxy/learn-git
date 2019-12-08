@@ -1,12 +1,8 @@
 押尾光太郎
 松井佑贵
-<<<<<<< HEAD
 伍伍慧
 岸部真明
-=======
-伍伍慧 
 井草圣二
->>>>>>> 29c2842162cd84b655796112a1e8d2fe5fdde53a
 
 guitar1
 guitar2 from myself
